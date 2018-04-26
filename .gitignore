@@ -1,4 +1,6 @@
 logs
+*.class
+*.log
 target
 /.idea
 /.idea_modules
